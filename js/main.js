@@ -18,7 +18,6 @@ let catalogArr = [
       desc: "Чехол для Apple iPhone 14 Pro - желтый",
       img: "img/3.jpg",
    },
-
 ];
 
 let shopArr = []
