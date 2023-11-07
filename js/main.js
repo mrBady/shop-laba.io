@@ -7,61 +7,7 @@ let catalogArr = [
       img: "img/1.jpg",
    },
    {
-      title: "iPhone 14 Pro",
-      price: 1100,
-      desc: "Смартфон Apple iPhone 14 Pro 128GB",
-      img: "img/1.jpg",
-   },
-   {
-      title: "iPhone 14 Pro",
-      price: 1100,
-      desc: "Смартфон Apple iPhone 14 Pro 128GB",
-      img: "img/1.jpg",
-   },
-   {
-      title: "iPhone 14 Pro",
-      price: 1100,
-      desc: "Смартфон Apple iPhone 14 Pro 128GB",
-      img: "img/1.jpg",
-   },
-   {
-      title: "iPhone 14 Pro",
-      price: 1100,
-      desc: "Смартфон Apple iPhone 14 Pro 128GB",
-      img: "img/1.jpg",
-   },
-   {
-      title: "iPhone 14 Pro",
-      price: 1100,
-      desc: "Смартфон Apple iPhone 14 Pro 128GB",
-      img: "img/1.jpg",
-   },
-   {
-      title: "AirPods Pro asda",
-      price: 300,
-      desc: "Наушники Apple AirPods Pro (2-го поколения, 2022)",
-      img: "img/2.jpg",
-   },
-   {
-      title: "AirPods Pro asda",
-      price: 300,
-      desc: "Наушники Apple AirPods Pro (2-го поколения, 2022)",
-      img: "img/2.jpg",
-   },
-   {
-      title: "AirPods Pro asda",
-      price: 300,
-      desc: "Наушники Apple AirPods Pro (2-го поколения, 2022)",
-      img: "img/2.jpg",
-   },
-   {
-      title: "AirPods Pro asda",
-      price: 300,
-      desc: "Наушники Apple AirPods Pro (2-го поколения, 2022)",
-      img: "img/2.jpg",
-   },
-   {
-      title: "AirPods Pro asda",
+      title: "AirPods Pro",
       price: 300,
       desc: "Наушники Apple AirPods Pro (2-го поколения, 2022)",
       img: "img/2.jpg",
@@ -72,24 +18,7 @@ let catalogArr = [
       desc: "Чехол для Apple iPhone 14 Pro - желтый",
       img: "img/3.jpg",
    },
-   {
-      title: "Чехол iPhone 14 Pro",
-      price: 40,
-      desc: "Чехол для Apple iPhone 14 Pro - желтый",
-      img: "img/3.jpg",
-   },
-   {
-      title: "Чехол iPhone 14 Pro",
-      price: 40,
-      desc: "Чехол для Apple iPhone 14 Pro - желтый",
-      img: "img/3.jpg",
-   },
-   {
-      title: "Чехол iPhone 14 Pro",
-      price: 40,
-      desc: "Чехол для Apple iPhone 14 Pro - желтый",
-      img: "img/3.jpg",
-   },
+
 ];
 
 let shopArr = []
